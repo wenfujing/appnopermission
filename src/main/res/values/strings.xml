@@ -1,0 +1,8 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">加速助手</string>
+
+    <string
+        name="cleaned">清理垃圾 <xliff:g id="memory">%1$s</xliff:g> 清理进程<xliff:g id="num">%2$d</xliff:g>个
+    </string>
+
+</resources>
